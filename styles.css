@@ -30,7 +30,7 @@ main {
     align-items: center;
 }
 
-.main_post {
+.main-post {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -39,7 +39,7 @@ main {
     width: 600px;   
 }
 
-.post_head {
+.post-head {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -62,11 +62,11 @@ h3 {
 
 }
 
-.post_head p {
+.post-head p {
     color: #b8b8b8;
     font-size: 12 px;
 }
-.post_photo {
+.post-photo {
     display:block;
     width: 600px;
     overflow: hidden;
@@ -77,7 +77,7 @@ img {
 
 }
 
-.post_comment {
+.post-comment {
     padding: 15px 25px 15px 25px;
     font-size: 11px;
     color: black;
